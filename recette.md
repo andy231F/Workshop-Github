@@ -4,6 +4,11 @@ Hello hello. Les best recettes sont ici avec nous !
 
 ## Ingrédients M 
 
+Des oeufs 
+Du lait 
+De la farine
+Des fraise
+De la levure
 
 ## Étapes A
 1 couper
